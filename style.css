@@ -269,6 +269,18 @@ img.goal-bar {
 h2.animation-head {
     width: 324%;
 }
+.striker{
+    left: 350px;
+}
+.goal-keeper{
+    left: 350px;
+}
+.football{
+    left: 550px;
+}
+.field:hover .football {
+    transform: translate(110px, -280px);
+}
 
 .footer-info {
     width: 100%;
